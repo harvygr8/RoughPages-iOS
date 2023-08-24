@@ -51,6 +51,7 @@
 		4BFDED622A02286F0046F9FF /* MarkdownUI in Frameworks */ = {isa = PBXBuildFile; productRef = 4BFDED612A02286F0046F9FF /* MarkdownUI */; };
 		4BFDED642A0237600046F9FF /* UITextViewRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BFDED632A0237600046F9FF /* UITextViewRepresentable.swift */; };
 		F603AEFB2A08201100C5CDA9 /* WrappingHStack in Frameworks */ = {isa = PBXBuildFile; productRef = F603AEFA2A08201100C5CDA9 /* WrappingHStack */; };
+		F6E9A6072A97B742003285B7 /* SampleView.png in Resources */ = {isa = PBXBuildFile; fileRef = F6E9A6062A97B742003285B7 /* SampleView.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -87,6 +88,7 @@
 		4BFDED5C2A0219110046F9FF /* MainAppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainAppView.swift; sourceTree = "<group>"; };
 		4BFDED5E2A021D8D0046F9FF /* AddPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPageView.swift; sourceTree = "<group>"; };
 		4BFDED632A0237600046F9FF /* UITextViewRepresentable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITextViewRepresentable.swift; sourceTree = "<group>"; };
+		F6E9A6062A97B742003285B7 /* SampleView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = SampleView.png; path = ../SampleView.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 		4BCF27FF2A01D7080032B835 = {
 			isa = PBXGroup;
 			children = (
+				F6E9A6062A97B742003285B7 /* SampleView.png */,
 				4BCF280A2A01D7080032B835 /* roughpages */,
 				4BCF28092A01D7080032B835 /* Products */,
 			);
@@ -297,6 +300,7 @@
 			files = (
 				4BCF28132A01D7090032B835 /* Preview Assets.xcassets in Resources */,
 				4BCF281A2A01DB7F0032B835 /* GoogleService-Info.plist in Resources */,
+				F6E9A6072A97B742003285B7 /* SampleView.png in Resources */,
 				4BCF28102A01D7090032B835 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
